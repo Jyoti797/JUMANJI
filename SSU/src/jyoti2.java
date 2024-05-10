@@ -1,0 +1,2 @@
+public class jyoti2 {
+}

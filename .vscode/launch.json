@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch debabrata",
+            "request": "launch",
+            "mainClass": "debabrata",
+            "projectName": "JUMANJI_6d4f48f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JUMANJI_6d4f48f5"
+        }
+    ]
+}
